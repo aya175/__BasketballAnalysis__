@@ -1,4 +1,4 @@
-# Basketball Video Analysis
+# Basketball Analysis
 
 This project is an **automated basketball video analysis system** designed to extract meaningful insights from basketball game footage without manual annotation. It combines advanced computer vision techniques, object detection, tracking, and event recognition to provide a full, annotated view of a basketball game.
 
